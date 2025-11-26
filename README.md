@@ -2,7 +2,8 @@
 
 I made a RandomItem within that item a inventory where i putted different fruits in.
 
-![](https://1drv.ms/i/c/2a274c526d418843/EU46sgWgQxBOlG8RS8c4of0BnmMO1JE91Gui9bbVl3zCDg?e=7eeqVe)
+![Arrays](https://github.com/user-attachments/assets/e78ecf2a-8707-42c4-801e-b2a5c9ada65c)
+
 
 
 https://github.com/Clouddyyyy/GDV-PeggleProject.git
