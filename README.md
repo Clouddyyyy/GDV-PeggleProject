@@ -19,7 +19,7 @@ https://github.com/Clouddyyyy/GDV-PeggleProject.git
 
 Titel = Pegglevoid
 Genre = Dark
-More idea: Conversation based peggle, dice roll like dnd.
+More idea: Conversation based peggle
 Beschrijving = de character/bal swinged naar een enemy/andere bal met messen. Als die mes de enemy raakt gaat er health damage af. door elk level heen krijg je meer of andere soorten enemies.
 
 Bal type = a character like dnd/character.
@@ -30,6 +30,9 @@ Doel: Hitting multiple monsters and saving humans.
 Thema: Dark acedemia, Tavern, dark colors, maybe noise when enemys die.
 
 Structuur van game:
-Boven aan: character rolling dice
+Boven aan: character throwing shunken
 Midden/everywhere: enemys
+
+Levelschets:
+![IdeaDesign](<img width="768" height="1024" alt="IdeaDesign" src="https://github.com/user-attachments/assets/20f1ae4b-7013-42ba-a383-39d33c27a6d6" />)
 
