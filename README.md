@@ -36,5 +36,5 @@ Also photo inspired:
 ![Inspiry] https://yakam_dudes.artstation.com/projects/9eGPEN
 
 Levelschets:
-![IdeaDesign] <img width="768" height="1024" alt="IdeaDesign" src="https://github.com/user-attachments/assets/59619515-d250-4398-9e4e-305b2760a2e8" 
+![IdeaDesign]  "https://github.com/user-attachments/assets/176a9ae3-928c-4ac9-ba9b-e2a4b895a040" 
 
