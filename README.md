@@ -33,7 +33,7 @@ Boven aan: character throwing arrow
 Midden/everywhere: enemys, lovers(aka human)
 
 Also photo inspired:
-![Inspiry](https://yakam_dudes.artstation.com/projects/9eGPEN)
+![Inspiry] https://yakam_dudes.artstation.com/projects/9eGPEN
 
 Levelschets:
 ![IdeaDesign](<img width="768" height="1024" alt="IdeaDesign" src="https://github.com/user-attachments/assets/59619515-d250-4398-9e4e-305b2760a2e8" />
